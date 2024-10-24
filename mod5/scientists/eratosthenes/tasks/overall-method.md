@@ -1,6 +1,6 @@
 # Replicating Eratosthenes’ Measurement of Earth’s Circumference in the Southern Hemisphere
 
-Name: Mr Haynes
+Name: Sen Nakajo
 
 Date: 24th October 2024
 
