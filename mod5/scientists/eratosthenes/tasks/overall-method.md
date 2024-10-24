@@ -1,8 +1,8 @@
 # Replicating Eratosthenes’ Measurement of Earth’s Circumference in the Southern Hemisphere
 
-Name: _______________________________
+Name: Mr Haynes
 
-Date: ________________________________
+Date: 24th October 2024
 
 ## Abstract
 
